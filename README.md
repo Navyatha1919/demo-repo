@@ -1,3 +1,3 @@
 #Demo
 
-md stands for markdown --> easy way to formate your text
+md stands for markdown --> easy way to formate your text.
